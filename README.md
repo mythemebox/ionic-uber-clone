@@ -1,6 +1,6 @@
 # Ionic Taxi Booking Script
 
-This is an official documentation for our taxi booking script. 
+This is an official documentation for our [Ionic Firebase Taxi booking script](https://codesundar.com/downloads/ionic-uber-clone-complete-taxi-app-ionic/).
 
 ### Before Starting
 
@@ -32,7 +32,7 @@ If you don't have a time for setup, you can hire me for doing setup (20USD/hour)
 
 - Firebase Setup
 - Creating Google Maps Api key
-- Admin Panel Setup
-- Driver App Setup
-- Rider App Setup
-- Cloud Function Setup
+- [Admin Panel Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/admin-setup.md)
+- [Driver App Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/driver-setup.md)
+- [Rider App Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/rider-setup.md)
+- [Cloud Function Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/fcf-setup.md)
