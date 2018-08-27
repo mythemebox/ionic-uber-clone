@@ -1,14 +1,24 @@
 # Ionic Taxi Booking Script
 
-This is an official documentation for our [Ionic Firebase Taxi booking script](https://codesundar.com/downloads/ionic-uber-clone-complete-taxi-app-ionic/).
+This is an official documentation for our [Ionic Firebase Taxi booking script](https://codesundar.com/downloads/ionic-uber-clone-complete-taxi-app-ionic/). This taxi booking script is made with ionic 3 & firebase
+
+# Let's start
+
+- Firebase Setup
+- Creating Google Maps Api key
+- [Admin Panel Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/admin-setup.md)
+- [Driver App Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/driver-setup.md)
+- [Rider App Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/rider-setup.md)
+- [Cloud Function Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/fcf-setup.md)
+
 
 ### Before Starting
 
 Before you starting installation, please make sure you have proper ionic environment on your machine. If you don't have please read this: 
 
- - Don't skip any steps
- - Please setup in correct order without skipping any steps
- - If you're facing any issue feel free to write to **me@codesundar.com**
+- Don't skip any steps
+- Please setup in correct order without skipping any steps
+
 
 ### Dev Environment
 
@@ -24,15 +34,6 @@ Before you starting installation, please make sure you have proper ionic environ
     javac 1.8.0_171
     java version "1.8.0_171"
 
-### Premium Support ?
-
-If you don't have a time for setup, you can hire me for doing setup (20USD/hour)
-
-## Let's start
-
-- Firebase Setup
-- Creating Google Maps Api key
-- [Admin Panel Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/admin-setup.md)
-- [Driver App Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/driver-setup.md)
-- [Rider App Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/rider-setup.md)
-- [Cloud Function Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/fcf-setup.md)
+### Support ?
+- Need any help? feel free to connect **me@codesundar.com**
+- (optional) If you don't have a time for setup, you can hire me for doing setup (20USD/hour)
