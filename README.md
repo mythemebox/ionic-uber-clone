@@ -12,7 +12,17 @@ Before you starting installation, please make sure you have proper ionic environ
 
 ### Dev Environment
 
+```node v9.5.0
+npm 5.6.0
 
+ionic 3.20.0
+cordova 8.0.0
+
+cordova-android 7.0.0
+cordova-ios 4.4.0
+
+javac 1.8.0_171
+java version "1.8.0_171"```
 
 ### Premium Support ?
 
