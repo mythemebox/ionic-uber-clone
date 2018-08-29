@@ -25,7 +25,7 @@ Navigate to real-time database rules & update rules as follows.
         ".write": true
         }
     }
-![update database rule]( https://github.com/codesundar/ionic-uber-clone/blob/master/img/update-database-rules.png "update database rules")
+![update database rule]( https://github.com/codesundar/ionic-uber-clone/blob/master/img/update-database-rule.png "update database rules")
 
 ### Updating Storage Rules
 
