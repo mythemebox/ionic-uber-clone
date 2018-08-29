@@ -4,8 +4,8 @@ This is an official documentation for our [Ionic Firebase Taxi booking script](h
 
 # Let's start
 
-- Firebase Setup
-- Creating Google Maps Api key
+- [Firebase Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/firebase-setup.md)
+- [Creating Google Maps Api key](https://github.com/codesundar/ionic-uber-clone/blob/master/create-google-api-key.md)
 - [Admin Panel Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/admin-setup.md)
 - [Driver App Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/driver-setup.md)
 - [Rider App Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/rider-setup.md)
