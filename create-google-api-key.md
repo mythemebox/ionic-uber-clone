@@ -35,3 +35,6 @@ Once you created API key, you need to update with following files
     - Maps Places
 
 ![enable-map-api]( https://github.com/codesundar/ionic-uber-clone/blob/master/img/enable-map-api.png "enable-map-api")
+
+
+**Important:** You might need to verify your credit card to avoid free usage limitation on google maps
