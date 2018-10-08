@@ -15,7 +15,7 @@ Navigate to Authentication, then enable Email login
 
 ![enable email login]( https://github.com/codesundar/ionic-uber-clone/blob/master/img/enable-email-login.png "enable email login")
     
-### Updating Realtime Database Rules
+### Updating Realtime Database Rules (NOT FIRESTORE)
 
 Navigate to real-time database rules & update rules as follows.
 
