@@ -9,7 +9,7 @@ Before you starting installation, please make sure you have proper ionic environ
 - Don't skip any steps
 - Please setup in correct order without skipping any steps
 
-### Dev Environment
+### Dev Environment (!important)
 
     node v9.5.0
     npm 5.6.0
