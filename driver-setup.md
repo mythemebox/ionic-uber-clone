@@ -20,7 +20,8 @@
 #### To generate apk
     ionic cordova platform add android@7.0.0
     ionic cordova build android
-    
+Execute `ionic cordova resources` before you build, if you faced any issue with icons or image not found
+
 **Common mistakes**
 
 - Update Google API Key with Driver App
