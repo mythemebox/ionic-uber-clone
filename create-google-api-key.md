@@ -45,3 +45,4 @@ Once you created API key, you need to update with following files
 - Created API key
 - Enabled all required services
 - Added Google Billing (optional)
+- Updated API key on driver & rider files
