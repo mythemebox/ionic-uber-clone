@@ -18,6 +18,8 @@ java version "1.8.0_171"
 ```
 
 Are you new to ionic ?
-Before doing setup, make sure you're able to create & build a sample ionic project.
+Before doing setup, you can follow these tutorial
 - https://codesundar.com/ionic-cordova-environment-setup-for-windows-mac/
 - https://codesundar.com/creating-your-first-ionic-project/
+
+Once you're able to up & run your sample ionic app, you can continue with next step
