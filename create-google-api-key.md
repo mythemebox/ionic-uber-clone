@@ -38,3 +38,10 @@ Once you created API key, you need to update with following files
 
 
 **Important:** You might need to verify your credit card to avoid free usage limitation on google maps
+
+
+### What you did ?
+- Created Google Project
+- Created API key
+- Enabled all required services
+- Added Google Billing (optional)
