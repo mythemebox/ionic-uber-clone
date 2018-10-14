@@ -24,3 +24,11 @@ once you have done, now you can serve into browser.
 ## Set Default cars & price value
 
 Navigate to Cars / settings page & press **SET DEFAULT** button.
+
+
+### What you did?
+
+- Created admin email manually from firebase
+- Updated admin email on login.ts
+- Running admin panel
+- Set default vaules (For cars)
