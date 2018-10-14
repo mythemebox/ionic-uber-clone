@@ -9,22 +9,9 @@ Before you starting installation, please make sure you have proper ionic environ
 - Don't skip any steps
 - Please setup in correct order without skipping any steps
 
-### Dev Environment (!important)
-
-    node v9.5.0
-    npm 5.6.0
-
-    ionic 3.20.0
-    cordova 8.0.0
-
-    cordova-android 7.0.0
-    cordova-ios 4.4.0
-
-    javac 1.8.0_171
-    java version "1.8.0_171"
-
 ### Let's start
 
+- [Step 0: Prerequisites](https://github.com/codesundar/ionic-uber-clone/blob/master/prerequisites.md)
 - [Step 1: Firebase Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/firebase-setup.md)
 - [Step 2: Creating Google Maps Api key](https://github.com/codesundar/ionic-uber-clone/blob/master/create-google-api-key.md)
 - [Step 3: Admin Panel Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/admin-setup.md)
