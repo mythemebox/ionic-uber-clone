@@ -37,7 +37,9 @@ Once you created API key, you need to update with following files
 ![enable-map-api]( https://github.com/codesundar/ionic-uber-clone/blob/master/img/enable-map-api.png "enable-map-api")
 
 
-**Important:** You might need to verify your credit card to avoid free usage limitation on google maps
+**Important Update:** Google Maps free API allows only one request / min. So must verfiy your credit card with Google Billing (https://console.developers.google.com/billing/) to avoid these errors.
+
+Please visit for more info: https://cloud.google.com/maps-platform/pricing/
 
 
 ### What you did ?
