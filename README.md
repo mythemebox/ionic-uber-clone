@@ -4,7 +4,7 @@ This is an official documentation for our [Ionic Firebase Taxi booking script](h
 
 ### Before Starting
 
-Before you starting installation, please make sure you have proper ionic environment on your machine.
+Before starting the installation, please make sure you have proper ionic environment on your machine.
 
 - Don't skip any steps
 - Please setup in correct order without skipping any steps
