@@ -27,4 +27,4 @@ Before you starting installation, please make sure you have proper ionic environ
 ### Common Mistake
 - Facing CORS issue?
   - Browser: please run chrome without CORS: https://alfilatov.com/posts/run-chrome-without-cors/
-  - Mobile: Please install cordova-pluging-whitelist
+  - Mobile: Please install cordova-plugin-whitelist
