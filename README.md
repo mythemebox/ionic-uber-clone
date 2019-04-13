@@ -23,3 +23,8 @@ Before you starting installation, please make sure you have proper ionic environ
 - You can visit https://github.com/codesundar/ionic-uber-clone/issues for known mistakes.
 - Still Need any help? feel free to connect https://codesundar.com/contact-us
 - (optional) If you don't have a time for setup, you can hire me for doing setup (20USD/hour)
+
+### Common Mistake
+- Facing CORS issue?
+  - Browser: please run chrome without CORS: https://alfilatov.com/posts/run-chrome-without-cors/
+  - Mobile: Please install cordova-pluging-whitelist
