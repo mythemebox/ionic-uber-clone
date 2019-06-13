@@ -32,7 +32,7 @@ Once you created API key, you need to update with following files
     - Geolocation
     - Maps Embed
     - Maps JavaScript
-    - Maps Places
+    - Maps Places (aka Places API)
 
 ![enable-map-api]( https://github.com/codesundar/ionic-uber-clone/blob/master/img/enable-map-api.png "enable-map-api")
 
