@@ -20,7 +20,7 @@ Before you starting installation, please make sure you have proper ionic environ
 - [Step 6: Cloud Function Setup](https://github.com/codesundar/ionic-uber-clone/blob/master/fcf-setup.md)
 
 ### Support ?
-- You can visit https://github.com/codesundar/ionic-uber-clone/issues for known mistakes.
+- Common mistakes: [Visit here](https://github.com/codesundar/ionic-uber-clone/issues?q=is%3Aissue+is%3Aclosed)
 - Still Need any help? feel free to connect https://codesundar.com/contact-us
 - (optional) If you don't have a time for setup, you can hire me for doing setup (20USD/hour)
 
