@@ -21,6 +21,11 @@
     ionic cordova build android
 Execute `ionic cordova resources` before you build, if you faced any issue with icons or image not found
 
+
+
+----
+
+
 **Common mistakes**
 
 - Update Google API Key with Driver App
@@ -29,18 +34,13 @@ Execute `ionic cordova resources` before you build, if you faced any issue with 
     ionic cordova plugin add cordova-plugin-geolocation
     ionic cordova plugin add cordova-plugin-whitelist
     ```
-- If you faced CORS issue, while testing on browser, please run browser without CORS
+
+If you faced CORS issue, while testing on browser, please run browser without CORS
 
 **Windows:**
 
-Update your path & run it from command prompt
-
-```
-"[PATH_TO_CHROME]\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
-```
+    "[PATH_TO_CHROME]\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
 
 **Mac:**
-
-```
-open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
-```
+ 
+    open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
