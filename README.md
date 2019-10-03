@@ -1,10 +1,11 @@
 # Ionic Taxi Booking Script
 
-This is an official documentation for our [Ionic Firebase Taxi booking script](https://codesundar.com/downloads/ionic-uber-clone-complete-taxi-app-ionic/). This taxi booking script is made with ionic 3 & firebase
-
-IONIC v3 Documentation - https://github.com/codesundar/ionic-uber-clone/tree/v3
+This is an official documentation for our [Ionic Firebase Taxi booking script](https://codesundar.com/downloads/ionic-uber-clone-complete-taxi-app-ionic/). This taxi booking script is made with ionic 4 & firebase
 
 This documenation updated with ionic 4
+
+### Looking for ionic 3 Documentation
+Visit: https://github.com/codesundar/ionic-uber-clone/tree/v3
 
 ### Before Starting
 
