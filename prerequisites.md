@@ -4,11 +4,11 @@ Before doing setup, make sure you have proper setup for running this application
 
 **Required Tools & it's version** (!important)
 ```
-node v9.5.0
-npm 5.6.0
+node v12.8.1
+npm 6.11.3
 
-ionic 3.20.0
-cordova 8.0.0
+ionic 5.2.5
+cordova 9.0.0
 
 cordova-android 7.0.0
 cordova-ios 4.4.0

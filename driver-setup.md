@@ -2,10 +2,9 @@
 
 ### Updating Firebase Configurations
 
-- Navigate to `driver/src/app/app.module.ts`
+- Navigate to `driver/src/environments/environment.prod.ts`
 - update your firebase configurations
 - Update your Google API key with `driver/src/index.html`
-- Update your AccountKit Key with `driver/config.xml`
 
 ### Run Driver App
 

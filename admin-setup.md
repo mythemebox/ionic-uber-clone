@@ -9,7 +9,8 @@ To login with your admin panel, first you need to create an email account from y
 
 ## Updating Configuration
 
-- Before running app, open your `admin/src/app/app.component.ts` then update your firebase configuration.
+- Navigate to `driver/src/environments/environment.prod.ts`
+- Update firebase credentials
 - navigate to `admin/src/pages/login/login.ts` & update newly created admin email
 
 

@@ -2,7 +2,7 @@
 
 ### Update Firebase Rules
 
-- Navigate to `rider/src/app/app.module.ts`
+- Navigate to `driver/src/environments/environment.prod.ts`
 - update your firebase configurations
 - Update your Google maps api & stripe public key with `rider/src/index.html`
 
@@ -34,13 +34,3 @@ Execute `ionic cordova resources` before you build, if you faced any issue with 
     ionic cordova plugin add cordova-plugin-geolocation
     ionic cordova plugin add cordova-plugin-whitelist
     ```
-
-If you faced CORS issue, while testing on browser, please run browser without CORS
-
-**Windows:**
-
-    "[PATH_TO_CHROME]\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
-
-**Mac:**
- 
-    open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
