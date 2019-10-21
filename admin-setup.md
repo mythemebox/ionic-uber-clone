@@ -11,7 +11,7 @@ To login with your admin panel, first you need to create an email account from y
 
 - Navigate to `driver/src/environments/environment.prod.ts`
 - Update firebase credentials
-- navigate to `admin/src/pages/login/login.ts` & update newly created admin email
+- navigate to `admin/src/app/login/login.page.ts` & update newly created admin email
 
 
 ## Running Admin Panel
@@ -30,6 +30,6 @@ Navigate to Cars / settings page & press **SET DEFAULT** button.
 ### What you did?
 
 - Created admin email manually from firebase
-- Updated admin email on login.ts
+- Updated admin email on login.page.ts
 - Running admin panel
 - Set default vaules (For cars)
