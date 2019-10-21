@@ -20,7 +20,6 @@ Once you created API key, you need to update with following files
 
 - Driver/src/index.html
 - Rider/src/index.html
-- Rider/src/services/constant.ts
 
 ### Enabling required services
 
